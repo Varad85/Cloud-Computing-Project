@@ -1,0 +1,8 @@
+
+streamlit
+transformers
+torch
+vaderSentiment
+pandas
+plotly
+scikit-learn
